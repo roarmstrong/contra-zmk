@@ -10,8 +10,8 @@
 
 #define DEFAULT  0
 #define NUM_MODS 1
-#define F_MODS 3
-#define BT_CTRL  4
+#define F_MODS 2
+#define BT_CTRL 3
 
 / {
     keymap {
